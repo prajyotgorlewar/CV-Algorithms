@@ -43,7 +43,7 @@ An improved version of Harris that selects corners with the strongest quality me
 
 ## 🔧 Requirements
 
-- Python 3.x
+- Python 3.13
 - OpenCV (`opencv-python`)
 - NumPy
 - Matplotlib
