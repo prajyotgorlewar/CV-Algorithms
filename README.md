@@ -21,14 +21,14 @@ This repository demonstrates the implementation of classic computer vision techn
 ### 1. Harris Corner Detection
 Detects corners based on the eigenvalues of the image gradient matrix.
 
-> 📍 Corners are marked in **yellow** on both images.
+> 📍 Corners are marked in **green** on the image.
 
 ---
 
 ### 2. Shi-Tomasi Corner Detection
 An improved version of Harris that selects corners with the strongest quality measure.
 
-> 📍 Corners are marked in **green** circles on the image.
+> 📍 Corners are marked in **cyan** circles on the image.
 
 ---
 
